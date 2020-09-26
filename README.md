@@ -11,7 +11,7 @@ O PFC Manager é um sistema de gerenciamento de projetos educacionais desenvolvi
     - entre outros;
   - acompanhamento e gerenciamento dos projetos em quadro kanban, permitindo ações como
     - alterar do status do projeto (reserva, iniciado, em andamento, concluído e cancelado),
-    - visualizar a situação (em dia, atrsado),
+    - visualizar a situação (em dia, atrasado),
     - definir e/ou redefinir datas de entrega,
     - entre outros;
   - dashboard com gráficos para visualização de informações como
@@ -19,11 +19,11 @@ O PFC Manager é um sistema de gerenciamento de projetos educacionais desenvolvi
     - total de projetos cadastrados,
     - total de projetos por status,
     - total de projetos por situação,
-    - total de projetos curso,
-    - total de projetos tipo,
+    - total de projetos por curso,
+    - total de projetos por tipo,
     - total de projetos por macrotema
     - total de equipes,
     - entre outros;
-  - hitórico com gráficos para visualização de informações de um semestre ou período específico;
+  - histórico com gráficos para visualização de informações de um semestre ou período específico;
   - confecção dinâmica de relatórios;
-  - enter outras funcionalidades.
+  - entre outras funcionalidades.
